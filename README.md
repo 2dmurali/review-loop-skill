@@ -23,7 +23,7 @@ Instead of trusting a first draft, the agent:
 
 ```bash
 # Install via skills CLI
-localskills install 2dmurali/review-loop
+localskills install muralid/review-loop
 ```
 
 Or clone and copy manually:
