@@ -1,6 +1,12 @@
 ---
 name: review-loop
-description: Iterative worker-reviewer cycle that spawns a critic subagent to score work 1-10 and provide actionable feedback, then revises until a quality gate is met. Use when implementing features, writing specs, reviewing existing code, or completing any task where quality matters more than speed. Trigger phrases: "use review-loop", "polish this", "iterate on this", "/review-loop", "review with feedback loop".
+description: >-
+  Iterative worker-reviewer cycle that spawns a critic subagent to score work
+  1-10 and provide actionable feedback, then revises until a quality gate is
+  met. Use when implementing features, writing specs, reviewing existing code,
+  or completing any task where quality matters more than speed. Trigger phrases:
+  "use review-loop", "polish this", "iterate on this", "/review-loop",
+  "review with feedback loop".
 ---
 
 # Review Loop
