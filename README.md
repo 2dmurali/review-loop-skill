@@ -1,5 +1,7 @@
 # review-loop-skill
 
+[![skills.sh](https://skills.sh/b/2dmurali/review-loop-skill)](https://skills.sh/2dmurali/review-loop-skill)
+
 A reusable AI agent skill that implements an **iterative worker-reviewer cycle** to produce higher quality output through structured critique and revision.
 
 Works with any AI agent that supports subagent spawning (Cursor, Claude, Windsurf, etc.).
@@ -22,8 +24,7 @@ Instead of trusting a first draft, the agent:
 ## Quick install
 
 ```bash
-# Install via skills CLI
-localskills install muralid/review-loop
+npx skills add 2dmurali/review-loop-skill
 ```
 
 Or clone and copy manually:
